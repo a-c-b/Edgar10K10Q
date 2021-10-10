@@ -1,0 +1,2 @@
+# Edgar10K10Q
+R code to pull 10K &amp; 10Q data from the SEC's Edgar Database. 
